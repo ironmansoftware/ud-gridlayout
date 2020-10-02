@@ -1,3 +1,3 @@
 
-import UDComponent from './component';
-UniversalDashboard.register("ud-component", UDComponent);
+import UDComponent from './ud-grid-layout';
+UniversalDashboard.register("ud-grid-layout", UDComponent);
